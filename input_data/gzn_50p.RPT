@@ -1,0 +1,31 @@
+Peak Analysis Report             29/12/2021 11:40:27               Page  1
+
+
+**************************************************************************
+*****           P E A K    A N A L Y S I S    R E P O R T            *****
+**************************************************************************
+
+     Detector Name:  GAMMA                           
+     Sample Title:   gzn_50p                                           
+     Peak Analysis Performed on:  29/12/2021 11:40:27   
+               Peak Analysis From Channel:    100
+               Peak Analysis To Channel:     4096
+
+   Peak  ROI  ROI    Peak    Energy   FWHM  Net Peak  Net Area  Continuum 
+    No. start end  centroid   (keV)   (keV)  Area     Uncert.    Counts 
+
+F   1   639-  651   646.24   320.23   1.30  3.76E+002   53.86   5.45E+003 
+F   2   710-  716   712.57   352.25   1.50  1.73E+002   50.95   2.56E+003 
+F   3  1029- 1052  1041.31   511.07   2.82  1.78E+004  124.51   6.43E+003 
+F   4  1237- 1251  1243.98   609.08   2.40  3.88E+002   47.35   3.85E+003 
+F   5  2274- 2300  2287.21  1114.81   2.14  1.85E+005  395.21   1.33E+003 
+F   6  2645- 2656  2649.91  1291.11   1.37  2.99E+001    9.29   1.06E+002 
+F   7  2986- 3007  2998.38  1460.73   2.26  1.51E+003   35.96   7.08E+001 
+F   8  3322- 3332  3327.03  1620.91   1.60  2.27E+001    6.14   2.65E+001 
+F   9  3614- 3632  3623.44  1765.55   2.49  1.34E+002   10.98   3.20E+001 
+
+M = First peak in a multiplet region
+m = Other peak in a multiplet region
+F = Fitted singlet
+
+Errors quoted at  1.000 sigma

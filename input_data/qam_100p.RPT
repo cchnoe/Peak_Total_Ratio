@@ -1,0 +1,31 @@
+Peak Analysis Report             18/01/2022 10:19:53               Page  1
+
+
+**************************************************************************
+*****           P E A K    A N A L Y S I S    R E P O R T            *****
+**************************************************************************
+
+     Detector Name:  QUINA2                          
+     Sample Title:   qam_100p                                          
+     Peak Analysis Performed on:  18/01/2022 10:19:53   
+               Peak Analysis From Channel:      1
+               Peak Analysis To Channel:     4096
+
+   Peak  ROI  ROI    Peak    Energy   FWHM  Net Peak  Net Area  Continuum 
+    No. start end  centroid   (keV)   (keV)  Area     Uncert.    Counts 
+
+F   1   116-  136   126.94    59.57   0.92  1.08E+005  336.27   1.87E+004 
+F   2   209-  214   211.33    99.18   0.70  7.47E+001   19.00   3.51E+002 
+    3   216-  223   219.47   103.00   1.04  8.10E+001   38.63   4.68E+002 
+F   4   506-  511   508.43   238.63   0.83  6.11E+001   12.42   1.03E+002 
+F   5  1237- 1250  1242.82   583.35   1.21  6.02E+001    8.92   3.90E+001 
+F   6  1294- 1302  1298.01   609.25   1.32  6.15E+001    9.27   2.93E+001 
+F   7  1936- 1947  1940.91   911.04   1.27  3.85E+001    6.96   1.67E+001 
+F   8  2384- 2391  2386.98  1120.45   1.33  2.23E+001    5.93   1.32E+001 
+F   9  3104- 3118  3111.95  1460.79   1.70  2.35E+002   15.31   1.13E+001 
+
+M = First peak in a multiplet region
+m = Other peak in a multiplet region
+F = Fitted singlet
+
+Errors quoted at  1.000 sigma

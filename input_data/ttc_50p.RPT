@@ -1,0 +1,28 @@
+Peak Analysis Report             31/01/2022 12:35:27               Page  1
+
+
+**************************************************************************
+*****           P E A K    A N A L Y S I S    R E P O R T            *****
+**************************************************************************
+
+     Detector Name:  MP2_MCA1                        
+     Sample Title:   ttc_50p                                           
+     Peak Analysis Performed on:  31/01/2022 12:35:27   
+               Peak Analysis From Channel:      1
+               Peak Analysis To Channel:     4096
+
+   Peak  ROI  ROI    Peak    Energy   FWHM  Net Peak  Net Area  Continuum 
+    No. start end  centroid   (keV)   (keV)  Area     Uncert.    Counts 
+
+F   1    17-   24    21.02    15.29   0.88  1.15E+003   42.62   5.86E+002 
+F   2   257-  277   267.58   140.61   1.22  4.44E+005  663.47   1.95E+004 
+F   3   537-  547   542.86   280.73   2.19  2.97E+002   19.53   2.45E+002 
+F   4   677-  686   683.47   352.38   1.01  3.76E+001    8.97   7.15E+001 
+F   5  1180- 1192  1187.02   609.41   1.32  4.04E+001    7.62   4.46E+001 
+F   6  2842- 2857  2849.63  1462.83   1.84  2.01E+002   12.90   6.23E+000 
+
+M = First peak in a multiplet region
+m = Other peak in a multiplet region
+F = Fitted singlet
+
+Errors quoted at  1.000 sigma
